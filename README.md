@@ -42,13 +42,13 @@ Data cleaning and structuring: using Amazone Glue dataBrew to clean and restruct
 Descriptive Statistics:
 To	Calculate summary statistics for key variables, including: 
 
-Type of Work  
+**Type of Work  
 
 Average Elapse day in 2023
 
 Average Elapse day in 2024 
  
-Elapse Time change 
+Elapse Time change **
 
 3-	Data Visualization:
 	Parato chart explains that increasing trends in  Permitlapse time change while decreasing number of projects. 
