@@ -1,6 +1,7 @@
 # data-analyst-JayRajesh
 
-![image](https://github.com/user-attachments/assets/23564bb1-13a7-491c-800b-d4cfd7b9fcff)
+![image](https://github.com/user-attachments/assets/8969abca-6aa8-44d4-a977-5de98c410c2d)
+
 
 Project Description: Descriptive Analysis of Permit Lapse Time Change for issued building permits .
 
