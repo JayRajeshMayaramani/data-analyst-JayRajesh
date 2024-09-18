@@ -41,10 +41,15 @@ Data Collection: downloded the data from city of vancouver (https://vancouver.ca
 Data cleaning and structuring: using Amazone Glue dataBrew to clean and restructur the data by removing missing values, deleting unnecessary columns and changing data type.
 Descriptive Statistics:
 To	Calculate summary statistics for key variables, including: 
-	Type of Work  
-	Average Elapse day in 2023
- Average Elapse day in 2024 
-	Elapse Time change 
+
+Type of Work  
+
+Average Elapse day in 2023
+
+Average Elapse day in 2024 
+ 
+Elapse Time change 
+
 3-	Data Visualization:
 	Parato chart explains that increasing trends in  Permitlapse time change while decreasing number of projects. 
 
