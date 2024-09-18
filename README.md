@@ -1,8 +1,11 @@
 # data-analyst-JayRajesh
 
+![image](https://github.com/user-attachments/assets/23564bb1-13a7-491c-800b-d4cfd7b9fcff)
+
 Project Description: Descriptive Analysis of Permit Lapse Time Change for issued building permits .
 
 Project Title: Understanding Permit lapse time.
+
 
 Objective: The primary goal of this project is to conduct a descriptive analysis of issued building permit data at City of Vancouver. Through this analysis, we aim to summarize key characteristics of Permit Elapsed Days, Project Type, Project Value and generate insights that can inform improvement  strategies 
 The dataset comprises key metrics related to work types and transactional times from City of Vancouver   over the  year 2023-2024 . It provides valuable insights into transaction patterns and time changes across various work categories. Below are the key features included in the dataset:
@@ -79,3 +82,6 @@ Deliverables:
 •	A presentation for stakeholders to communicate important findings and suggestions for future action.
 
 This descriptive analysis project aims to provide a comprehensive understanding of issued building permit data at City of Vancouver. Optimize its operations and enhance customer satisfaction.
+
+
+
